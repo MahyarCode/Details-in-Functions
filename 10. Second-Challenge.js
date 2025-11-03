@@ -19,5 +19,3 @@ GOOD LUCK 😀
     header.style.color = 'blue';
   });
 })();
-
-document.body.addEventListener('click', transform());
